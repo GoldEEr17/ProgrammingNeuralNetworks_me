@@ -21,6 +21,8 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 
 - [Crash Course CS](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
+- ([Colin Galen](https://www.youtube.com/@ColinGalen))
+
 
 
 
@@ -33,6 +35,11 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 -
 
 
+## Jeux
+
+- [Pygame tutorial1](https://www.youtube.com/watch?v=AY9MnQ4x3zk)
+
+- [Sebastian Lague](https://www.youtube.com/@SebastianLague/videos)
 
 
 
