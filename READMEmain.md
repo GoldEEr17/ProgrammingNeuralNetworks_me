@@ -13,6 +13,7 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 
 - Utiliser chatGPT pour recevoir explications, exemples de code, trouver implémentation...
 
+- le mieux à faire actuellement semble de se lancer dans des projets, et d'apprendre en faisant avec ce qui manque d'utile/efficace.
 
 
 
@@ -25,8 +26,11 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 
 ## Learn Python / Programming
 
+- [résultats YT](https://www.youtube.com/results?search_query=python+course)
 - [Bro Code playlist](https://www.youtube.com/watch?v=6VElWbND-zg&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT&index=1)
-
+- [Bro Code 12h](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+- [freecode1 4h26](https://www.youtube.com/watch?v=rfscVS0vtbw)
+-
 
 
 
@@ -37,6 +41,7 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 - [3B1B series](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3) ([web](https://www.3blue1brown.com/lessons/neural-networks))
 - [nnfs e-book](https://nnfs.io)
 - [Machine Learnia](https://www.youtube.com/@MachineLearnia/playlists)
+- [Crash Course AI](https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=1)
 
 - [Andrej Karpathy playlist](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1)
 - [book blog](http://neuralnetworksanddeeplearning.com)
