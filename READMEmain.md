@@ -87,14 +87,14 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 - ~Rubik's cube 55x55
 
 
-- Geometry Dash
+- Geometry Dash [Code BH) (https://youtu.be/MTcXW94V838)
 
 
 
 
 ### Interesting Watchlist
 
-- How to train a Neural network (and train it to identify doodle) (https://youtu.be/hfMk-kjRv4c)
+- How to train a Neural network (and train it to identify doodle) [Seb Lague] (https://youtu.be/hfMk-kjRv4c)
 
 
 
