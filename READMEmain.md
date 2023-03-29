@@ -58,9 +58,45 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 
 
 
-## Youtubers Machine Learning
+
+## Vidéos/contenu plus générale~
+
+
+### Youtubers Machine Learning
 
 - [Code Bullet](https://www.youtube.com/@CodeBullet)
+
+
+
+
+### Tout ce que je regarde ~ +général cool
+
+- Why neural networks can learn (almost) anything (https://youtu.be/0QczhVg5HaI)
+- How are memory stored in Neural networks (https://youtu.be/piF6D6CQxUw)
+- Partial derivatives and the gradient of a function [Dave] (https://youtu.be/AXH9Xm6Rbfc)
+
+
+
+
+### ce que je regarde ~ vidéos "application
+
+[Code Bullet] :
+- Clciker heroes
+- Pac-man (sauf partie intégration game)
+- Tetris
+- ~Rubik's cube 55x55
+
+
+- Geometry Dash
+
+
+
+
+### Interesting Watchlist
+
+- How to train a Neural network (and train it to identify doodle) (https://youtu.be/hfMk-kjRv4c)
+
+
 
 
 
