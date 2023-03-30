@@ -11,7 +11,7 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 
 ### Notes diverses
 
-- Utiliser chatGPT pour recevoir explications, exemples de code, trouver implémentation...
+- Utiliser chatGPT pour recevoir explications, exemples de code, trouver implémentation... (suprennemment appliquable souvent)
 
 - le mieux à faire actuellement semble de se lancer dans des projets, et d'apprendre en faisant avec ce qui manque d'utile/efficace.
 
