@@ -50,6 +50,7 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 - [Machine Learnia](https://www.youtube.com/@MachineLearnia/playlists)
 - [Crash Course AI](https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b&index=1)
 
+- Autres types de réseaux de neuronnes : [The A.I. Hacker - Michael Phi](https://www.youtube.com/@thea.i.hacker-michaelphi6569/videos)
 - [Andrej Karpathy playlist](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=1)
 - [book blog](http://neuralnetworksanddeeplearning.com)
 - [Présentation Google](https://developers.google.com/machine-learning/crash-course/ml-intro?hl=fr)
