@@ -11,7 +11,7 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 
 ### Notes diverses
 
-- Utiliser chatGPT pour recevoir explications, exemples de code, trouver implémentation... (suprennemment appliquable souvent)
+- Utiliser chatGPT pour recevoir explications, exemples de code, trouver implémentation... (suprennemment appliquable souvent, pratique expliquer/comprendre les erreurs etc.)
 
 - le mieux à faire actuellement semble de se lancer dans des projets, et d'apprendre en faisant avec ce qui manque d'utile/efficace.
 
@@ -37,8 +37,8 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 
 ## Jeux
 
-- [Pygame tutorial1](https://www.youtube.com/watch?v=AY9MnQ4x3zk)
-
+- [Pygame tutorial1 ('the ultimate introduction', scroller snail game](https://www.youtube.com/watch?v=AY9MnQ4x3zk)
+- [Pygame tutorial2 : logic of a 2D platformer](https://www.youtube.com/watch?v=Gmrf_3LbXu0)
 - [Sebastian Lague](https://www.youtube.com/@SebastianLague/videos)
 
 
