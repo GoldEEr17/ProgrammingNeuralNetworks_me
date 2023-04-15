@@ -9,6 +9,8 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 - [Neural Networks](#neural-networks)
 
 
+
+
 ### Notes diverses
 
 - Utiliser chatGPT pour recevoir explications, exemples de code, trouver implémentation... (suprennemment appliquable souvent, pratique expliquer/comprendre les erreurs etc.)
@@ -33,6 +35,10 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 - [Bro Code 12h](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 - [freecode1 4h26](https://www.youtube.com/watch?v=rfscVS0vtbw)
 -
+
+## Other languages
+
+- [basics of C#](https://youtu.be/IFayQioG71A)
 
 
 ## Jeux
