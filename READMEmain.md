@@ -51,6 +51,7 @@ Mon répertoire pour afficher toutes mes découvertes et ressources de façon cl
 
 ## Learn Neural networks
 
+--> STATQUEST !
 - [3B1B series](https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3) ([web](https://www.3blue1brown.com/lessons/neural-networks))
 - [nnfs e-book](https://nnfs.io)
 - [Machine Learnia](https://www.youtube.com/@MachineLearnia/playlists)
